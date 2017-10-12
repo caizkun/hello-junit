@@ -1,2 +1,2 @@
 # hello-junit
-Learn and Test JUnit
+Learn and Practice Unit Test using JUnit
